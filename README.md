@@ -36,28 +36,8 @@ The Power BI report analyzes e-commerce sales data to provide insights into sale
 - Discount vs. Profit Margin Correlation with sales bubble size (scatter plot)
 
 ## Data Preparation Steps
-1. Import CSV file into Power BI
-2. Create calculated columns:
-   - Order Processing Time = DATEDIFF([Order Date], [Ship Date], DAY)
-4. Establish relationships between tables (if additional tables are added later)
-5. Create measures for KPIs and aggregations
+1. Import CSV file of fact table into Power BI
+2. Using Power Query in Power BI, a calendar table is created from the fact table. 
+3. Using Power Query in Power BI, create the following calculated columns (order processing time, discount, and sale price) from the other columns in the fact table
+4. Using DAX in Power BI, create the following measures for KPIs and aggregations: (total sales, total profit, % sales, MoM sales change, and YoY sales change). 
 
-## Technical Requirements
-- Power BI Desktop (latest version)
-- Basic understanding of DAX for calculated measures
-- Power BI service for sharing (optional)
-
-## Implementation Timeline
-1. Data Preparation: 1 day
-2. Dashboard Design: 2 days
-3. Visualization Refinement: 1 day
-4. Testing and Validation: 1 day
-5. Deployment: 0.5 day
-
-## Expected Outcomes
-- Identification of top-performing products and regions
-- Insights into optimal discount strategies
-- Understanding of customer segment profitability
-- Data-driven recommendations for inventory and marketing strategies
-
-Would you like me to elaborate on any specific aspect of this Power BI project plan or provide sample DAX measures for any of the visualizations?
