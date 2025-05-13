@@ -37,10 +37,8 @@ The Power BI report analyzes e-commerce sales data to provide insights into sale
 
 ## Data Preparation Steps
 1. Import CSV file into Power BI
-2. Clean data (check for missing values, standardize formats)
-3. Create calculated columns:
-   - Profit Margin (%) = (Profit/Sales)*100
-   - Shipping Days = DATEDIFF([Order Date], [Ship Date], DAY)
+2. Create calculated columns:
+   - Order Processing Time = DATEDIFF([Order Date], [Ship Date], DAY)
 4. Establish relationships between tables (if additional tables are added later)
 5. Create measures for KPIs and aggregations
 
