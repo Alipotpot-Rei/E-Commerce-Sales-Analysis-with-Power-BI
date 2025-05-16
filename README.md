@@ -48,7 +48,9 @@ The Power BI report analyzes e-commerce sales data to provide insights into sale
 
 ## Tools and Technologies
 
-- Power BI Desktop is used for data preparation and visualization
+- Power BI Desktop is the primary IDE for report development, data modeling, and visualization.	
+- Power Query (M)	is used for cleaning the sales_overview.csv and creating a calendar table.
+- DAX (Data Analysis Expressions)	is used for calculating measures (total revenue, total profit, profit margin, MoM %, YoY %). 
 - DeepSeek chatbot is used for creating the insights and recommendations
 
 ## Insights and Recommendations to optimize sales strategy, profitability, and operations
