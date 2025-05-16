@@ -5,7 +5,7 @@ The Power BI report analyzes e-commerce sales data to provide insights into sale
 
 ## Data Source
 
-- The dataset is taken from a Youtube vlog which shows the creation of a single-page Power BI report. I decided to create a multi-page Power BI report which i think is best for complex datasets, like e-commerce sales, making it easy to focus on specific metrics.
+- The dataset is taken from a Youtube video which shows the creation of a single-page Power BI report. I decided to create a multi-page Power BI report which i think is best for complex datasets, like e-commerce sales, making it easy to focus on specific metrics.
 
 ## Report Structure
 
