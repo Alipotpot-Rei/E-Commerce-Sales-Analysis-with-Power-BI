@@ -25,14 +25,14 @@ The Power BI report analyzes e-commerce sales data to provide insights into sale
 **Purpose**: Analyze sales performance by geographic location
 
 **Visualizations**:
-- Sales by State and Store Department (shape map)
+- Sales by State and Customer Segment (shape map)
 - Top 10 Store Locations by Sales (matrix chart)
 
 ### 3. Product Performance Page
 **Purpose**: Evaluate product category and subcategory performance
 
 **Visualizations**:
-- Sales and Product Margin by store department, category and sub-category (treemap with bookmarks)
+- Sales and Product Margin by customer segment, category and sub-category (treemap with bookmarks)
 
 ### 4. Effect of Discount on Sales Page
 **Purpose**: Examine how discounts impact sales volume and profitability.
