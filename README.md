@@ -81,7 +81,7 @@ The Power BI report analyzes e-commerce sales data to provide insights into sale
 | **Corporate** | Medium  | Low (negotiated)     | Bulk Supplies        |  
 
 **Recommendations**:  
- **Home Office**: Offer ergonomic bundles (e.g., chair + desk) to increase AOV.  
+ **Home Office**: Offer ergonomic bundles (e.g., chair + desk) to increase the average order value.  
  **Corporate**: Focus on volume contracts with minimal discounts.  
  **Consumer**: Use limited-time discounts to drive impulse buys.  
 
